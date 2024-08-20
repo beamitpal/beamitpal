@@ -3,7 +3,7 @@
     "id": 1,
     "position": "Full Stack Developer",
     "image": "https://ucarecdn.com/cb1ba534-55c2-4a89-9182-0ab9bd5d71d4/",
-    "company": "Tech Company Add",
+    "company": "Tech Company A",
     "startDate": "January 2020",
     "endDate": "Present",
     "techstack": ["React", "Node.js", "MongoDB"],
