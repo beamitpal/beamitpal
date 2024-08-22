@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "FaReact",
+    "name": "React",
+    "description": "A JavaScript library for building user interfaces."
+  },
+  {
+    "icon": "FaNodeJs",
+    "name": "Node.js",
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine."
+  },
+  {
+    "icon": "FaCss3Alt",
+    "name": "CSS3",
+    "description": "A style sheet language used for describing the presentation of a document written in HTML or XML."
+  },
+  {
+    "icon": "FaPython",
+    "name": "Python",
+    "description": "A high-level programming language known for its readability and broad applications in data science, web development, and more."
+  }
+]
