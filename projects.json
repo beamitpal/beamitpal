@@ -22,7 +22,7 @@
     "techstack": ["Next.js", "TypeScript", "TailwindCSS"],
     "links": [
       { "name": "Github", "url": "https://github.com/beamitpal/e-commerce", "icon": "FaGithub" },
-      { "name": "Demo", "url": "https://ecommerce.example.com", "icon": "FaExternalLinkAlt" }
+      { "name": "Live Site", "url": "https://ecommerce.example.com", "icon": "FaGlobe" }
     ]
   },
   {
@@ -35,7 +35,33 @@
     "techstack": ["React", "Node.js", "Socket.io"],
     "links": [
       { "name": "Github", "url": "https://github.com/beamitpal/chat-app", "icon": "FaGithub" },
-      { "name": "Demo", "url": "https://chatapp.example.com", "icon": "FaExternalLinkAlt" }
+      { "name": "Live Chat", "url": "https://chatapp.example.com", "icon": "FaComments" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Task Management Tool",
+    "startDate": "2023-02-01",
+    "endDate": "2023-04-01",
+    "description": "A task management tool to help teams manage their projects and tasks efficiently. Features include task assignment, deadlines, and progress tracking.",
+    "image": "https://via.placeholder.com/800x400",
+    "techstack": ["Vue.js", "Firebase", "TailwindCSS"],
+    "links": [
+      { "name": "Github", "url": "https://github.com/beamitpal/task-manager", "icon": "FaGithub" },
+      { "name": "Documentation", "url": "https://docs.taskmanager.example.com", "icon": "FaBook" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Weather Dashboard",
+    "startDate": "2023-05-01",
+    "endDate": "2023-07-01",
+    "description": "A weather dashboard that provides real-time weather updates for any location. Built using the OpenWeatherMap API and React.",
+    "image": "https://via.placeholder.com/800x400",
+    "techstack": ["React", "OpenWeatherMap API", "Bootstrap"],
+    "links": [
+      { "name": "Github", "url": "https://github.com/beamitpal/weather-dashboard", "icon": "FaGithub" },
+      { "name": "Live Demo", "url": "https://weather.example.com", "icon": "FaCloudSun" }
     ]
   }
 ]
