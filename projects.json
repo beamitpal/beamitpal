@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Portfolio Website",
+    "startDate": "2023-01-01",
+    "endDate": "2023-03-01",
+    "description": "A personal portfolio website built using React, TailwindCSS, and Vite. It showcases my projects, skills, and experience.",
+    "image": "https://via.placeholder.com/800x400",
+    "techstack": ["React", "TailwindCSS", "Vite"],
+    "links": [
+      { "name": "Github", "url": "https://github.com/beamitpal/portfolio", "icon": "FaGithub" },
+      { "name": "Demo", "url": "https://beamitpal.github.io/portfolio", "icon": "FaExternalLinkAlt" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "E-commerce Platform",
+    "startDate": "2022-06-01",
+    "endDate": "2022-12-31",
+    "description": "An e-commerce platform for selling products online, with features such as product listings, shopping cart, and user authentication.",
+    "image": "https://via.placeholder.com/800x400",
+    "techstack": ["Next.js", "TypeScript", "TailwindCSS"],
+    "links": [
+      { "name": "Github", "url": "https://github.com/beamitpal/e-commerce", "icon": "FaGithub" },
+      { "name": "Demo", "url": "https://ecommerce.example.com", "icon": "FaExternalLinkAlt" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chat Application",
+    "startDate": "2023-04-01",
+    "endDate": "2023-06-30",
+    "description": "A real-time chat application with WebSocket integration, allowing users to communicate instantly. Built with React and Node.js.",
+    "image": "https://via.placeholder.com/800x400",
+    "techstack": ["React", "Node.js", "Socket.io"],
+    "links": [
+      { "name": "Github", "url": "https://github.com/beamitpal/chat-app", "icon": "FaGithub" },
+      { "name": "Demo", "url": "https://chatapp.example.com", "icon": "FaExternalLinkAlt" }
+    ]
+  }
+]
