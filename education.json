@@ -1,3 +1,50 @@
 [
- 
+  {
+    "id": 1,
+    "image": "https://ucarecdn.com/69ea6395-c288-4dff-a02d-f22098dbbd26/images.jpeg",
+    "school": "S D SR SEC School Januala Pataudi Gurgaon",
+    "degree": "Secondary Education",
+    "startDate": "Apr 2019",
+    "endDate": "Jul 2020",
+    "about": "Focused on science , mathematics and english.",
+    "courses": [
+      "English LNG & LIT.",
+      "Hindi Course-B",
+      "Mathematics Standard",
+      "Science",
+      "Social Science",
+      "Banking & Insurance"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://smgoi.com/icons/smgoilogo.webp",
+    "school": "Sankat Mochan Shikshan Sansthan Inter College",
+    "degree": "Senior Secondary Education",
+    "startDate": "Apr 2021",
+    "endDate": "June 2022",
+    "about": "Focused on Phyics , Chemistry and Mathematics.",
+    "courses": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "English",
+      "General Hindi"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://ucarecdn.com/cb1ba534-55c2-4a89-9182-0ab9bd5d71d4/IGNOULogo21ignou.svg",
+    "school": "Indira Gandhi National Open University",
+    "degree": "Bachelor Of Computer Applications",
+   "startDate": "July 2022",
+    "endDate": "July 2025",
+   "about": "Focused on software development, algorithms, and data structures.",
+    "courses": [
+      "Data Structures and Algorithms",
+      "Operating Systems",
+      "Database Management Systems",
+      "Web Development"
+    ]
+  }
 ]
